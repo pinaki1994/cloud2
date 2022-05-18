@@ -1,0 +1,136 @@
+{
+  margin : 0;
+  padding : 0;
+}
+body{
+margin: 0;
+text-align: center;
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ms Madi', cursive;
+font-size: 84px;
+color: #048565;
+margin:50px auto 40px auto;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #048565;
+}
+p{
+  line-height: 2;
+  font-size: 20px;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #40E5E2 ;
+  border-width: 5px;
+  width: 10%;
+  margin: 100px auto;
+}
+h3{
+  color: #048565;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-link{
+  font-family: 'Ms Madi', cursive;
+  color: #11999E;
+  margin: 10px 15px;
+  font-size: 50px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #FFFFFF;
+
+}
+
+.skill-row{
+
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.skill-1{
+  width: 25%;
+  float: left;
+  margin-right: 80px;
+}
+.skill-2{
+  width: 25%;
+  float: right;
+  margin-left: 80px;
+}
+.skill-3{
+  width: 25%;
+  float: left;
+  margin-right: 80px;
+}
+.top-container{
+  background-color: #C9FFF7 ;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 145px;
+  bottom: 240px;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.profile-img{
+  border-radius: 100%;
+  margin-bottom: 20px;
+  height: 150px;
+  width: 150px;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact-me{
+  line-height: 2;
+  font-size: 16px;
+  margin:50px auto 40px auto;
+  width: 52%;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+}
+.test-button {
+  font-size:20px;
+  font-family:Georgia;
+  width:200px;
+  height:50px;
+  border-width:0px;
+  color:#fff;
+  border-color:rgba(0, 0, 0, 1);
+  font-weight:bold;
+  border-top-left-radius:28px;
+  border-top-right-radius:28px;
+  border-bottom-left-radius:28px;
+  border-bottom-right-radius:28px;
+  box-shadow: 1px 7px 22px 1px rgba(74, 144, 226, 1);
+  text-shadow: 2px 1px 0px #2f6627;
+  background:rgba(28, 92, 87, 1);
+}
+.test-button:hover {
+  background: #5cbf2a
+}
+
+.bottom-container{
+background-color:#6CE8E6;
+}
+.copyrights{
+  font-family: 'DM Sans', sans-serif;
+  font-size: 17px;
+  color: #FEFFFF;
+}
